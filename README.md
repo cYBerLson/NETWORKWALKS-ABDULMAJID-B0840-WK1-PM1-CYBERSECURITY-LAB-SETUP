@@ -138,7 +138,7 @@ The host directory was mapped to:
 
 inside Kali.
 
-![Shared Downloads Folder](screenshots/WK1-PM1-05-shared-downloads-folder.jpeg)
+![Shared Folder Verification](screenshots/WK1-PM1-08-shared-folder-verification.jpeg)
 
 I verified the mount from Kali and confirmed that files in the shared directory could be accessed.
 
